@@ -9,3 +9,4 @@
 6. Fonctionnement avec un serveur
 7. Utilisataires
 8. Fonctionnement interne
+9. Annexes
