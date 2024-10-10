@@ -1,6 +1,5 @@
 # Formation GIT MAIF BA (10-11:10/2024)
 
-
 ## Sommaire
 1. Généralités
 2. Installation et paramétrage
